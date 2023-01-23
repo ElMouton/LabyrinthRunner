@@ -1,0 +1,6 @@
+1 : mur
+2 : téléporteur
+3 : pierre
+4 : porte
+5 : trésor
+6 : activateur
